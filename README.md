@@ -2,7 +2,7 @@
 
 Final Project Attendance SMM
 
-checking UI/UX
+checking UI/UX ver 2.0
 
 ## Getting Started
 
